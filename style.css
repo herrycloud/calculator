@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+main{
+    height: 90vh;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+.section{
+    height: 30rem;
+    width: 15rem;
+    background-color: red;
+    margin: auto;
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    position: absolute;
+    border-radius: 2rem;
+}
+.type{
+    display: grid;
+}
